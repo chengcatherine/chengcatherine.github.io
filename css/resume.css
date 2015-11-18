@@ -1,4 +1,4 @@
-.navbar-header {
+/*.navbar-header {
 	height: 60px;
 }
 
@@ -21,13 +21,13 @@
 
 .navbar-default {
 	border-color: #d9230f;
-}
+}*/
 
 
 #resumepage {
 	padding-left: 15%;
 	padding-right: 15%;
-	padding-top: 120px;
+	padding-top: 80px;
 }
 
 #firstcolumn {

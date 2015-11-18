@@ -1,9 +1,9 @@
 #aboutpage {
 	padding-left: 15%;
 	padding-right: 15%;
-	padding-top: 120px;
+	padding-top: 100px;
 }
-
+/*
 .navbar-fixed-top {
 	border-width: 0 0 6px;
 }
@@ -14,7 +14,7 @@
 
 .navbar-default {
 	border-color: #d9230f;
-}
+}*/
 #sidebar {
 	float: left;
 	width: 300px;
@@ -36,11 +36,11 @@
           transition: all 1s ease;
 }
 
-.navbar-brand {
+/*.navbar-brand {
 	font-size: 30px;
 	padding: 25px 40px;
 }
-
+*/
 #aboutmephoto:hover {
 	-webkit-filter: grayscale(0%);
 	/*background: url("../images/aboutmecolor.jpg") no-repeat center;
@@ -52,13 +52,13 @@
   	height: 50%;*/
 }
 
-.navbar-header {
+/*.navbar-header {
 	height: 60px;
 }
 
 .navbar-nav {
 	padding: 15px;
-}
+}*/
 
 h1 {
 	color: #d9230f;
